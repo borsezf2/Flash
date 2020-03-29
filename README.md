@@ -1,16 +1,29 @@
 # flash
 
 A new Flutter application.
+A simple application which lets you flash your message on full screen mode in landscape
 
-## Getting Started
+For local storage HIVE is used.
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/borsezf2/Flash/blob/master/Images/1.png?raw=true"/>
+______________________________________________________________________________________________________________
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/borsezf2/Flash/blob/master/Images/7.jpeg?raw=true"/>
+______________________________________________________________________________________________________________
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://github.com/borsezf2/Flash/blob/master/Images/6.jpeg"/>
+______________________________________________________________________________________________________________
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/borsezf2/Flash/blob/master/Images/5.jpeg"/>
+______________________________________________________________________________________________________________
+
+<img src="https://github.com/borsezf2/Flash/blob/master/Images/4.jpeg"/>
+______________________________________________________________________________________________________________
+
+<img src="https://github.com/borsezf2/Flash/blob/master/Images/3.jpeg"/>
+______________________________________________________________________________________________________________
+
+
+<img src="https://github.com/borsezf2/Flash/blob/master/Images/2.jpeg"/>
+______________________________________________________________________________________________________________
+
